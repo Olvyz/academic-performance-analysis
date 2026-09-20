@@ -38,7 +38,7 @@ Provides a more detailed view of class and student-level results
 
 Focuses on changes in academic performance over time using DAX time-intelligence calculations
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * Power BI
 * DAX
@@ -47,7 +47,7 @@ Focuses on changes in academic performance over time using DAX time-intelligence
 * Data Visualization
 * Time Intelligence
 
-## 📈 Analysis & Features
+## Analysis & Features
 
 The project includes:
 
@@ -69,15 +69,15 @@ Examples of DAX measures used in the report include:
 * Previous Grade
 * Total Grades
 
-## 🖥 Dashboard Preview
+## Dashboard Preview
 
 Screenshots of the report will be added here
 
-## 📁 Project File
+## Project File
 
 The Power BI `.pbix` file is available in this repository
 
-## 👤 Author
+## Author
 
 **Olga Wyżewska**
 Data Analyst / BI Analyst
