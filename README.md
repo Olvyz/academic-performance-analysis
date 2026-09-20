@@ -70,13 +70,22 @@ Examples of DAX measures used in the report include:
 * Total Grades
 
 ## Dashboard Preview
-Academic Performance Overview
 
-Class Performance
+### Academic Performance Overview
 
-Class Details
+![Academic Performance Overview](overview.png)
 
-Analytics & Time Intelligence
+### Class Performance
+
+![Class Performance](class-performance.png)
+
+### Class Details
+
+![Class Details](class-details.png)
+
+### Analytics & Time Intelligence
+
+![Analytics & Time Intelligence](time-intelligence.png)
 
 ## Project File
 
